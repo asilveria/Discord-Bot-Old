@@ -1,0 +1,9 @@
+{
+    "quotes": [
+        {
+            "name": "CheesyFajitas",
+            "quote": "This is a test quote.",
+            "date": "5/25/2020"
+        }
+    ]
+}
